@@ -1,2 +1,2 @@
-# my-website
-Junk Solutions Co.
+# Junk Solutions Co
+Welcome
